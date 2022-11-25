@@ -1,0 +1,1 @@
+(1 / n) * sum([val**2 for val in (y - y_predicted)])
